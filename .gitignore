@@ -7,3 +7,9 @@ dist
 .env.*
 screenshots
 artifacts
+solana-pump/mint-*.json
+solana-pump/LAST_LAUNCH.json
+solana-pump/node_modules/
+cache/
+out/
+
