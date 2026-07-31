@@ -1,0 +1,32 @@
+{
+  "name": "bLOK CHaiN Token List",
+  "timestamp": "2026-07-31T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 2,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/ceedot-rock/blok-chain/main/public/logo.png",
+  "keywords": [
+    "blok",
+    "blokz",
+    "solana",
+    "pump"
+  ],
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "5tX5u37fxBPV6wGwuU5pzn9oZuvqXmH4trGvmhUnDwf9",
+      "name": "bLOkz",
+      "symbol": "bLOkz",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ceedot-rock/blok-chain/main/public/logo.png",
+      "extensions": {
+        "description": "bLOkz \u2014 bLOK CHaiN. Code: https://github.com/ceedot-rock/blokz",
+        "website": "https://github.com/ceedot-rock/blokz",
+        "game": "https://github.com/ceedot-rock/blokz",
+        "pump": "https://pump.fun/5tX5u37fxBPV6wGwuU5pzn9oZuvqXmH4trGvmhUnDwf9"
+      }
+    }
+  ]
+}

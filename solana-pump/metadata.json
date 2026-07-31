@@ -1,0 +1,17 @@
+{
+  "name": "bLOkz",
+  "symbol": "bLOkz",
+  "description": "bLOkz is the on-chain token for bLOK CHaiN \u2014 stack blocks, hold $bLOkz, play the game. Play: https://blok.grok.app",
+  "image": "https://raw.githubusercontent.com/ceedot-rock/blok-chain/main/public/logo.png",
+  "showName": true,
+  "createdOn": "https://pump.fun",
+  "website": "https://github.com/ceedot-rock/blokz",
+  "twitter": "https://x.com/ceedotrock",
+  "telegram": "",
+  "extensions": {
+    "website": "https://blok.grok.app",
+    "game": "https://blok.grok.app",
+    "repo": "https://github.com/ceedot-rock/blok-chain",
+    "tokenInfo": "https://raw.githubusercontent.com/ceedot-rock/blok-chain/main/public/token.json"
+  }
+}

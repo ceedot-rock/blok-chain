@@ -1,0 +1,23 @@
+{
+  "name": "bLOkz",
+  "symbol": "bLOkz",
+  "decimals": 18,
+  "description": "bLOkz is the on-chain token for bLOK CHaiN. Play at https://blok.grok.app",
+  "website": "https://github.com/ceedot-rock/blokz",
+  "email": "ceedotrock@gmail.com",
+  "logoURI": "https://raw.githubusercontent.com/ceedot-rock/blok-chain/main/public/logo-64.png",
+  "logoURI_full": "https://raw.githubusercontent.com/ceedot-rock/blok-chain/main/public/logo.png",
+  "address": "0x9385cB183329C386391787D0f919a02C750A51CB",
+  "chainId": 8453,
+  "chain": "Base",
+  "owner": "0xcc37F943184A683e825b34814f72387D3dAb4fdf",
+  "totalSupply": "1000000",
+  "pool": "0x836f25C7b3BadC1652A03036bDfc8C500FB347af",
+  "compiler": "0.8.20",
+  "optimizer": {
+    "enabled": true,
+    "runs": 200
+  },
+  "constructorArguments": "00000000000000000000000000000000000000000000d3c21bcecceda1000000",
+  "license": "MIT"
+}
