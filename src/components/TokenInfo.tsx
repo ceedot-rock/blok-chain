@@ -24,7 +24,7 @@ export function TokenInfo() {
       label: "Game",
       value: (
         <a href={GAME_URL} target="_blank" rel="noreferrer">
-          https://github.com/ceedot-rock/blokz
+          https://sam-camel-recovery-idaho.trycloudflare.com
         </a>
       ),
     },
@@ -32,7 +32,7 @@ export function TokenInfo() {
       label: "Website",
       value: (
         <a href={GAME_URL} target="_blank" rel="noreferrer">
-          https://github.com/ceedot-rock/blokz
+          https://sam-camel-recovery-idaho.trycloudflare.com
         </a>
       ),
     },

@@ -5,7 +5,7 @@
 import { CHAIN_META } from "./chain";
 
 /** Game site (canonical website for token + product). */
-export const GAME_URL = "https://github.com/ceedot-rock/blokz";
+export const GAME_URL = "https://sam-camel-recovery-idaho.trycloudflare.com";
 /** Repo / metadata host (logo + token.json on GitHub raw). */
 export const REPO_URL = "https://github.com/ceedot-rock/blok-chain";
 export const RAW_BASE =
@@ -21,8 +21,8 @@ export const TOKEN_META = {
   symbol: "bLOkz",
   decimals: 18,
   description:
-    "bLOkz is the on-chain token for bLOK CHaiN — a puzzle game where you stack blocks and hold $bLOkz. Play at https://github.com/ceedot-rock/blokz",
-  shortDescription: "Stack blocks. Hold $bLOkz. Play at https://github.com/ceedot-rock/blokz",
+    "bLOkz is the on-chain token for bLOK CHaiN — a puzzle game where you stack blocks and hold $bLOkz. Play at https://sam-camel-recovery-idaho.trycloudflare.com",
+  shortDescription: "Stack blocks. Hold $bLOkz. Play at https://sam-camel-recovery-idaho.trycloudflare.com",
   address: CHAIN_META.tokenAddress || "0x9385cB183329C386391787D0f919a02C750A51CB",
   chainId: CHAIN_META.chainId || 8453,
   chainName: CHAIN_META.chainName || "Base",
