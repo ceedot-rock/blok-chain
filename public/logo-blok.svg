@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 120" fill="none" role="img" aria-label="BLoK">
+  <defs>
+    <linearGradient id="stone" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#303034"/>
+      <stop offset="55%" stop-color="#141416"/>
+      <stop offset="100%" stop-color="#070708"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="1" x2="0.2" y2="0">
+      <stop offset="0%" stop-color="#9a3412"/>
+      <stop offset="45%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#fde68a"/>
+    </linearGradient>
+  </defs>
+  <!-- B -->
+  <path fill="url(#stone)" stroke="url(#gold)" stroke-width="3.5" stroke-linejoin="round"
+    d="M24 22h36c14 0 26 8 26 22 0 8-4 14-11 18 10 4 16 12 16 24 0 16-13 26-30 26H24V22zm18 16v20h16c6 0 11-3 11-10s-5-10-11-10H42zm0 36v24h20c8 0 14-4 14-12s-6-12-14-12H42z"/>
+  <!-- L -->
+  <path fill="url(#stone)" stroke="url(#gold)" stroke-width="3.5" stroke-linejoin="round"
+    d="M118 22h20v66h32v20h-52V22z"/>
+  <!-- o -->
+  <path fill="url(#stone)" stroke="url(#gold)" stroke-width="3.5" stroke-linejoin="round"
+    d="M204 48c22 0 38 14 38 34s-16 34-38 34-38-14-38-34 16-34 38-34zm0 18c-11 0-18 8-18 16s7 16 18 16 18-8 18-16-7-16-18-16z"/>
+  <!-- K -->
+  <path fill="url(#stone)" stroke="url(#gold)" stroke-width="3.5" stroke-linejoin="round"
+    d="M258 22h20v34l28-34h24l-34 40 36 46h-24l-30-38-10 10v28h-20V22z"/>
+</svg>
